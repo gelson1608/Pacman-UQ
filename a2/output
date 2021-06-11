@@ -1,0 +1,20 @@
+[Board]
+4,4
+XXXX
+X00X
+X00X
+XXXX
+
+[Game]
+title = First Game
+author = Leo
+lives = 4
+level = 0
+score = 0
+hunter = 0,0,UP,0,PHIL
+blinky = 0,0,UP,SCATTER:10
+inky = 0,0,UP,SCATTER:10
+pinky = 0,0,UP,SCATTER:10
+clyde = 0,0,UP,SCATTER:10
+
+[Scores]
